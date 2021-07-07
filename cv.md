@@ -27,5 +27,19 @@
 9. Self-motivated, reason-driven, inquisitive, know how to learn, read fast and search for information.
 10. Impeccable academic performance with grade poitnt average no less than 9.0 (proves the capability of executing tasks as requested)
 
-graduated a technical school (technician diploma). 
-Have 2 years of work expierience as
+## Technical Skills
+***
+Basic knowledge of computer science (technical school) and  programming languages: HTML/CSS (university courses)
+Basic knowledge of Git
+Tools: VS code, DreamWeaver, Photoshop
+
+2+ years of experience with CNC operated milling machines and manipulators
+
+‎## Education
+***
+Graduated a technical school - Branch of Belarusian National Technical University "Zhodino State Polytechnic College" in 2019 (technician diploma).
+Currently a student of Minsk State Linguistic University, just finished my second year (cross-cultural communication).
+
+## English
+***
+C1
