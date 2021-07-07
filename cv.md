@@ -6,13 +6,13 @@
 
 ## Contacts
 ***
-**Phone**: +375 25 535 15 22
-**E-mail**: vladimirredblooded@gmail.com
-**Telegram**: @red1blooded
-**Purpose**: to obtain all the necessary knowledge to initiate my successful front-end developer career
-**Previous occupation**:  CNC controled milling machines and manipulators operator.
-**As for now**: a student of Minsk State Linguistic University (cross-cultural communication).
-**Languages**: Russian, English, German, Arabic *(as a hobby)*.
+**Phone**: +375 25 535 15 22  
+**E-mail**: vladimirredblooded@gmail.com  
+**Telegram**: @red1blooded  
+**Purpose**: to obtain all the necessary knowledge to initiate my successful front-end developer career  
+**Previous occupation**:  CNC controled milling machines and manipulators operator.  
+**As for now**: a student of Minsk State Linguistic University (cross-cultural communication).  
+**Languages**: Russian, English, German, Arabic *(as a hobby)*.  
 
 ## Soft Skills and Benefits
 ***
@@ -35,11 +35,11 @@ Tools: VS code, DreamWeaver, Photoshop
 
 2+ years of experience with CNC operated milling machines and manipulators
 
-‎## Education
+‎##Education
 ***
 Graduated a technical school - Branch of Belarusian National Technical University "Zhodino State Polytechnic College" in 2019 (technician diploma).
 Currently a student of Minsk State Linguistic University, just finished my second year (cross-cultural communication).
 
-## English
+##English
 ***
 C1
