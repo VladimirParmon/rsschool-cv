@@ -5,7 +5,7 @@
 ***
 
 ## Contacts
-***
+
 **Phone**: +375 25 535 15 22  
 **E-mail**: vladimirredblooded@gmail.com  
 **Telegram**: @red1blooded  
@@ -15,7 +15,7 @@
 **Languages**: Russian, English, German, Arabic *(as a hobby)*.  
 
 ## Soft Skills and Benefits
-***
+
 1. Team player
 2. Capable of multitasking
 3. Rational approach to solving problems
@@ -28,18 +28,18 @@
 10. Impeccable academic performance with grade poitnt average no less than 9.0 (proves the capability of executing tasks as requested)
 
 ## Technical Skills
-***
-Basic knowledge of computer science (technical school) and  programming languages: HTML/CSS (university courses)
-Basic knowledge of Git
-Tools: VS code, DreamWeaver, Photoshop
+
+Basic knowledge of computer science (technical school) and  programming languages: HTML/CSS (university courses)  
+Basic knowledge of Git  
+Tools: VS code, DreamWeaver, Photoshop  
 
 2+ years of experience with CNC operated milling machines and manipulators
 
 ‎##Education
-***
+
 Graduated a technical school - Branch of Belarusian National Technical University "Zhodino State Polytechnic College" in 2019 (technician diploma).
 Currently a student of Minsk State Linguistic University, just finished my second year (cross-cultural communication).
 
 ##English
-***
-C1
+
+**C1**
