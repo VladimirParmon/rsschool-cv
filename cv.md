@@ -2,8 +2,6 @@
 
 # Vladimir Parmon
 
-***
-
 ## Contacts
 
 **Phone**: +375 25 535 15 22  
@@ -35,11 +33,13 @@ Tools: VS code, DreamWeaver, Photoshop
 
 2+ years of experience with CNC operated milling machines and manipulators
 
-‎##Education
+## Education
 
 Graduated a technical school - Branch of Belarusian National Technical University "Zhodino State Polytechnic College" in 2019 (technician diploma).
 Currently a student of Minsk State Linguistic University, just finished my second year (cross-cultural communication).
 
-##English
+## English
 
 **C1**
+
+***
