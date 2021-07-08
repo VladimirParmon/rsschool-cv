@@ -8,7 +8,7 @@
 **E-mail**: vladimirredblooded@gmail.com  
 **Telegram**: @red1blooded  
 **Purpose**: to obtain all the necessary knowledge to initiate my successful front-end developer career  
-**Previous occupation**:  CNC controled milling machines and manipulators operator  
+**Previous occupation**:  CNC controlled milling machines and manipulators operator  
 **As for now**: a student of Minsk State Linguistic University (cross-cultural communication)  
 **Languages**: Russian, English, German, *Arabic (as a hobby)*  
 
@@ -23,7 +23,7 @@
 7. 2+ years of experience in highly demanding (both physically and mentally) environment
 8. Eloquence and massive vocabulary (terminology & proper names for variety of fields)
 9. Self-motivated, reason-driven, inquisitive and also know how to learn, read and search for information fast
-10. Impeccable academic performance with grade poitnt average no less than 9.0 (proves the capability of executing tasks as requested)
+10. Impeccable academic performance with grade point average no less than 9.0 (proves the capability of executing tasks as requested)
 
 ## Technical Skills
 
