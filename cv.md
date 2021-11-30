@@ -7,7 +7,7 @@
 **Phone**: +375 25 535 15 22  
 **E-mail**: vladimirredblooded@gmail.com  
 **Telegram**: @red1blooded  
-**Purpose**: to present my person to the world in a meritorious manner
+**Purpose**: to present my person to the world in a meritorious manner<br>
 **Previous occupation**:  CNC controlled milling machines and manipulators operator  
 **As for now**: a student of Minsk State Linguistic University (cross-cultural communication)  
 **Languages**: Russian, English, German, *Arabic (as a hobby)*  
